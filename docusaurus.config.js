@@ -2,7 +2,7 @@
 module.exports = {
   title: "DEV Community",
   tagline: "Document For Developers From Developers",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://dev-community-git-main-instructorjoeycadieux.vercel.app/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -60,6 +60,23 @@ module.exports = {
             },
             {
               label: "Twitter",
+              href: "https://twitter.com/drjoeycadieux"
+            }
+          ]
+        },
+        {
+          title: "Legal",
+          items: [
+            {
+              label: "Privacy",
+              href: "https://stackoverflow.com/users/12696830/joey-cadieux"
+            },
+            {
+              label: "Terms",
+              href: "https://discordapp.com/invite/docusaurus"
+            },
+            {
+              label: "Cookie Policy",
               href: "https://twitter.com/drjoeycadieux"
             }
           ]
