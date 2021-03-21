@@ -48,23 +48,6 @@ module.exports = {
           ]
         },
         {
-          title: "Community",
-          items: [
-            {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/users/12696830/joey-cadieux"
-            },
-            {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              label: "Twitter",
-              href: "https://twitter.com/drjoeycadieux"
-            }
-          ]
-        },
-        {
           title: "Legal",
           items: [
             {
@@ -77,6 +60,23 @@ module.exports = {
             },
             {
               label: "Cookie Policy",
+              href: "https://twitter.com/drjoeycadieux"
+            }
+          ]
+        },
+        {
+          title: "Community",
+          items: [
+            {
+              label: "Stack Overflow",
+              href: "https://stackoverflow.com/users/12696830/joey-cadieux"
+            },
+            {
+              label: "Discord",
+              href: "https://discordapp.com/invite/docusaurus"
+            },
+            {
+              label: "Twitter",
               href: "https://twitter.com/drjoeycadieux"
             }
           ]
